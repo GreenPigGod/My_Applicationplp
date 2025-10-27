@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/xml/usb_device_filter.xml：ベンダ/プロダクトは必要に応じて追記 -->
+<resources>
+    <!--Arduino LLC -->
+    <usb-device vendor-id="2341" />
+    <!--Espressif -->
+    <usb-device vendor-id="303a" />
+</resources>
